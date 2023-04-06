@@ -1,6 +1,6 @@
 ﻿#nullable disable
 
-using Microsoft.Graph.Models;
+using Microsoft.Graph;
 
 namespace RCL.Core.Identity.Graph
 {

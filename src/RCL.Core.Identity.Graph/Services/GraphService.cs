@@ -2,7 +2,6 @@
 
 using Microsoft.Extensions.Options;
 using Microsoft.Graph;
-using Microsoft.Graph.Models;
 using Microsoft.Identity.Client;
 using System.Net.Http.Headers;
 
